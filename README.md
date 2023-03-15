@@ -5,3 +5,4 @@ The main goal of this competition is for you to gain knowledge on various machin
 
 The various features in the data corresponds to the pixel values of the images. The training and held-out test set
 for this data consists of 50,000 samples and 10,000 samples respectively.
+The competition, including the data, is available here: https://www.kaggle.com/t/0d0b1c033ece47ffa1dbc8bd374689ae
